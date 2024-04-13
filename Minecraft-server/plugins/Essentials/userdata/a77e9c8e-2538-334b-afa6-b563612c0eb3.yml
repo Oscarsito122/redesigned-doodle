@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712969777853
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712969797815
+  login: 1712969711469
+money: '0'
+last-account-name: Factorypock456
+lastlocation:
+  world: 1eb111d1-aa33-4651-8990-dab808d79c7c
+  world-name: world
+  x: -1.1988109106882858
+  y: 111.5
+  z: 8.794485176481459
+  yaw: 150.00015258789062
+  pitch: 9.749968528747559
+logoutlocation:
+  world: 1eb111d1-aa33-4651-8990-dab808d79c7c
+  world-name: world
+  x: -8.5
+  y: 135.0
+  z: -2.5
+  yaw: 7.349853515625
+  pitch: -18.60000228881836

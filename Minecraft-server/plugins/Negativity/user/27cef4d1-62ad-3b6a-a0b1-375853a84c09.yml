@@ -1,0 +1,21 @@
+playername: Nachus_GC
+lang: en_US
+minerate-full-mined: 2453
+minerate:
+  diamond: 0
+  gold: 0
+  iron: 10
+  coal: 1
+  ancient debris: 0
+better-click: 12
+cheats:
+  pingspoof: 1
+  fly: 118
+  fastladder: 27
+  forcefield: 2
+  step: 1
+  nofall: 1
+  spider: 1
+  speed: 27
+  faststairs: 11
+creation-time: 1712630928289

@@ -1,0 +1,20 @@
+playername: AshOficialMC
+lang: en_US
+minerate-full-mined: 164
+minerate:
+  diamond: 0
+  gold: 0
+  iron: 8
+  coal: 18
+  ancient debris: 0
+better-click: 14
+cheats:
+  fly: 20
+  pingspoof: 1
+  fastladder: 18
+  forcefield: 3
+  step: 0
+  spider: 1
+  speed: 18
+  faststairs: 16
+creation-time: 1712627642526
